@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Grade Checker</string>
+    <string name="welcome">Welcome to the Grade Checker</string>
+    <string name="physics">physics</string>
+    <string name="chemistry">chemistry</string>
+    <string name="biology">biology</string>
+    <string name="math">mathematics</string>
+    <string name="english">english</string>
+    <string name="agric">agriculture science</string>
+    <string name="econs">economics</string>
+    <string name="fmath">further mathematics</string>
+    <string name="enter_score">enter score</string>
+    <string name="sub">SUBJECT</string>
+    <string name="grade">GRADE</string>
+    <string name="get_grade">GET GRADE</string>
+
+
+
+</resources>
